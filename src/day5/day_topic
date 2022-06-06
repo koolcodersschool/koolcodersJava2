@@ -1,0 +1,16 @@
+arraylist methods:
+- size() method
+- add() method
+- remove() method
+- indexOf() method
+- Arrays.asList() method
+- equals() method
+- contains() method
+- containsAll() method
+- removeAll() method
+- clear() method
+- isEmpty() method
+- Collections.sort() method
+- Collections.reverse() method
+
+
